@@ -1,0 +1,104 @@
+[
+    {
+        "name": "plasma lind",
+        "price": "123",
+        "description": "asjdasidasd",
+        "ratings": 5,
+        "images": [
+            {
+                "public_id" : "products/l2bd3hhy8dds1cxstuuz",
+                "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231284/products/l2bd3hhy8dds1cxstuuz.jpg"
+            }
+        ],
+        "category": "Eletronics",
+        "seller": "Ebay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "asfasdasd",
+        "price": "221",
+        "description": "123123asdasdasdasd",
+        "ratings": 5,
+        "images": [
+            {
+                "public_id" : "products/chairmount_nuubea",
+            "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/chairmount_nuubea.jpg"
+            }
+        ],
+        "category": "Eletronics",
+        "seller": "Ebay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "asdasdasd",
+        "price": "123",
+        "description": "asjdasidasd",
+        "ratings": 5,
+        "images": [
+            {
+                "public_id" : "products/airpords_e5cqqr",
+                "url" : "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/airpords_e5cqqr.jpg"
+            }
+        ],
+        "category": "Eletronics",
+        "seller": "Ebay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Eletronics",
+        "price": "221",
+        "description": "123123asdasdasdasd",
+        "ratings": 5,
+        "images": [
+            {
+                "public_id" : "products/eahhtj1bkn1k9gjgd3hn",
+                "url" : "https://res.cloudinary.com/shopit/image/upload/v1606233125/products/eahhtj1bkn1k9gjgd3hn.jpg"
+            }
+        ],
+        "category": "Eletronics",
+        "seller": "Ebay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "asdasdd",
+        "price": "123",
+        "description": "asjdasidasd",
+        "ratings": 5,
+        "images": [
+            {
+                "public_id": "product/tsadsdasd",
+                "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/asdasdasd.jpg"
+            }
+        ],
+        "category": "Eletronics",
+        "seller": "Ebay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "cd",
+        "price": "221",
+        "description": "123123asdasdasdasd",
+        "ratings": 5,
+        "images": [
+            {
+                "public_id": "product/tsadsdasd",
+                "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/asdasdasd.jpg"
+            }
+        ],
+        "category": "Eletronics",
+        "seller": "Ebay",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }
+]
